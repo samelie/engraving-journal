@@ -2,6 +2,6 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/itxy-72-h6x6a.svg">
-  <img alt="Logo" src="images/itxy-72-h6x6a.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="images/itxy-2024-12/itxy-32-h6x6a.svg">
+  <img alt="Logo" src="images/itxy-2024-12/itxy-72-h6x6a.svg">
 </picture>
